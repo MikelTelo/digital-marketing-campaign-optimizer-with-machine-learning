@@ -1,5 +1,7 @@
 # **Predicción de Conversión en Campañas de Marketing Digital**
 
+Consultar notebook: pred_conv_md_camp_ml_General que es el que enlaza al resto de notobooks presentes en este directorio.
+
 ## **Descripción del Proyecto**
 
 Este proyecto utiliza técnicas de Machine Learning para predecir conversiones en campañas de marketing digital. A través del análisis de datos, balanceo de clases y modelado, se optimizan estrategias de marketing dirigidas a maximizar el ROI (retorno de inversión). 
