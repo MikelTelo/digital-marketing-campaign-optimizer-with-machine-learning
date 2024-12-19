@@ -1,6 +1,6 @@
 # **Predicción de Conversión en Campañas de Marketing Digital**
 
-Consultar notebook: pred_conv_md_camp_ml_General que es el que enlaza al resto de notobooks presentes en este directorio.
+Consultar notebook: pred_conv_md_camp_ml_General que es el que enlaza al resto de notebooks presentes en este directorio.
 
 ## **Descripción del Proyecto**
 
