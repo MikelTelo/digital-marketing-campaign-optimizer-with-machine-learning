@@ -59,10 +59,10 @@ El proyecto está organizado de la siguiente manera:
 - **Modelos probados:** Random Forest, Gradient Boosting, XGBoost.
 - **Modelo seleccionado:** Ramdon Forest.
   - **Métricas:** 
-    - Recall (Test): 0.989
-  - **Precision (Test):** 0.975
-  - **F1-Score:** 0.982
-  - **ROC-AUC:** 0.965
+    - **Recall (Test):** 0.989
+    - **Precision (Test):** 0.975
+    - **F1-Score:** 0.982
+    - **ROC-AUC:** 0.965
 - **Optimización de hiperparámetros:** Uso de **GridSearchCV**.
 
 ### **4. Simulaciones**
